@@ -36,10 +36,10 @@ I enjoy learning new technologies and improving my skills by building real-world
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Rakshitha1004">
+  <a href="https://github.com/Rakshitha1004" traget="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -49,5 +49,4 @@ I enjoy learning new technologies and improving my skills by building real-world
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rakshitha1004&label=Profile%20Views&color=blue&style=flat" />
 </p>
-
-⭐️ *Thank you for visiting my profile! Feel free to explore my repositories and follow my learning journey.*
+⭐️Thank you for visiting my profile! Feel free to explore my repositories and follow my learning journey.
