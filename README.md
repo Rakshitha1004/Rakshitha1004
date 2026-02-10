@@ -1,9 +1,3 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rakshitha+👋;Front-End+Developer+Intern;Building+Clean+%26+Responsive+Web+UIs" ](https://tse3.mm.bing.net/th/id/OIP.XOQRX0mLJxtfRgFoLjGqigHaHX?pid=Api&P=0&h=180) />
-</p>
-
----
 # Hi, Iam Rakshitha M R
 
 ## 👩‍💻 About Me
