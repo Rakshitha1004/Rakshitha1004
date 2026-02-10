@@ -1,4 +1,4 @@
-#                                             Hi, Iam Rakshitha M R
+# <center> Hi, Iam Rakshitha M R </center>
 
 ## 👩‍💻 About Me
 
