@@ -4,6 +4,7 @@
 </p>
 
 ---
+# Hi, Iam Rakshitha M R
 
 ## 👩‍💻 About Me
 
@@ -11,9 +12,8 @@ I'm a **Front-End Developer Intern** passionate about creating **responsive, use
 I enjoy learning new technologies and improving my skills by building real-world projects.
 
 - 🌱 Currently learning and growing as a Front-End Developer  
-- 🎨 Interested in UI/UX and modern web design  
 - 💡 Love turning ideas into interactive web experiences  
-- 🤝 Open to internships, learning opportunities, and collaboration  
+- 🤝 Open to collaboration  
 
 ---
 
@@ -22,18 +22,12 @@ I enjoy learning new technologies and improving my skills by building real-world
 ### 🚀 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -44,24 +38,6 @@ I enjoy learning new technologies and improving my skills by building real-world
 - ♿ Web accessibility basics  
 - 🎯 Improving JavaScript & React skills  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakshitha1004&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitha1004&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakshitha1004&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
