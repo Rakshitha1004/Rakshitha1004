@@ -27,5 +27,3 @@ I enjoy working with cloud platforms, CI/CD pipelines, and containerized applica
 
 📊 Monitoring & Logging basics
 
-📊 GitHub Stats & Visualizations
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rakshitha1004&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshitha1004&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshitha1004&theme=tokyo-night" /> </p>
