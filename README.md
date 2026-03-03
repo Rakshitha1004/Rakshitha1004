@@ -8,7 +8,7 @@
 
 I am currently pursuing my internship at **JSpiders**, where I am building strong foundations in **Java, SQL, and DevOps**.
 
-I am passionate about backend development and building efficient, secure, and scalable systems. I have also worked on a Machine Learning project focused on fraud detection in digital payment systems.
+I am passionate building efficient, secure, and scalable systems. I have also worked on a Machine Learning project focused on fraud detection in digital payment systems.
 
 - 🌱 Currently learning **Java, SQL & DevOps**
 - 💻 Interested in Backend Development & System Design
@@ -65,8 +65,8 @@ I am passionate about backend development and building efficient, secure, and sc
 
 I am open to internships, entry-level roles, and collaboration opportunities in:
 
-- Java Development  
-- Backend Development  
+- Java Development
+- Frontend Development 
 - DevOps (Beginner Level)  
 
 ---
