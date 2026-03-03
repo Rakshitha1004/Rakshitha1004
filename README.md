@@ -1,29 +1,74 @@
 <h1 align="center"> 👋 Hi, I'm Rakshitha </h1>
-👩‍💻 About Me
 
-I'm a DevOps Intern passionate about building scalable, automated, and efficient infrastructure.
-I enjoy working with cloud platforms, CI/CD pipelines, and containerized applications to streamline development and deployment processes.
+<h3 align="center">Java Developer Aspirant | SQL | DevOps Learner | ML Project Developer 🚀</h3>
 
-🌱 Currently learning and growing as a DevOps Engineer
+---
 
-⚙️ Love automating workflows and optimizing systems
+## 👩‍💻 About Me
 
-☁️ Exploring Cloud & Infrastructure as Code
+I am currently pursuing my internship at **JSpiders**, where I am building strong foundations in **Java, SQL, and DevOps**.
 
-🤝 Open to collaboration on DevOps & Cloud projects
+I am passionate about backend development and building efficient, secure, and scalable systems. I have also worked on a Machine Learning project focused on fraud detection in digital payment systems.
 
-🛠 Tech Stack
-🚀 DevOps & Cloud
+- 🌱 Currently learning **Java, SQL & DevOps**
+- 💻 Interested in Backend Development & System Design
+- 🤖 Built an ML-based **UPI ID Fraud Detection System**
+- ⚙️ Exploring CI/CD, Docker, and Cloud fundamentals
+- 🎯 Aspiring to become a skilled Software Engineer
 
-📌 What I’m Learning & Working On
+---
 
-☁️ Deploying applications on AWS
+## 🛠 Tech Stack
 
-🔄 Building CI/CD pipelines
+### 💻 Programming & Database
+- Java  
+- SQL  
+- Python  
 
-🐳 Working with Docker & Kubernetes
+### ⚙️ DevOps (Learning)
+- Git & GitHub  
+- Linux Basics  
+- Docker  
+- CI/CD Concepts  
 
-🏗 Infrastructure as Code using Terraform
+### 🤖 Machine Learning
+- Pandas  
+- NumPy  
+- Scikit-learn  
 
-📊 Monitoring & Logging basics
+---
 
+## 📌 Featured Project
+
+### 🔍 UPI ID Fraud Detection Using Machine Learning
+
+- Developed a fraud detection model to identify suspicious UPI IDs
+- Performed data preprocessing and feature engineering
+- Applied classification algorithms like Logistic Regression & Random Forest
+- Evaluated model performance using accuracy metrics
+
+**Tech Used:** Python, Pandas, NumPy, Scikit-learn
+
+---
+
+## 📚 Currently Learning & Improving
+
+- Advanced Java (OOPs, JDBC, Collections)
+- Writing optimized SQL queries
+- CI/CD pipeline basics
+- Docker containerization
+- Cloud fundamentals (AWS basics)
+
+---
+
+## 🤝 Open to Opportunities
+
+I am open to internships, entry-level roles, and collaboration opportunities in:
+
+- Java Development  
+- Backend Development  
+- DevOps (Beginner Level)  
+
+---
+
+⭐ Always learning, building, and improving!
