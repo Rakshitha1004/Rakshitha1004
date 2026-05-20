@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there 👋 I'm Rakshitha
+# 👋 Hi, I'm Rakshitha
 
 ### ☕ Java Developer Aspirant | 🚀 DevOps Learner | ☁️ Cloud Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Learning+Java+and+Backend+Development;Exploring+Docker+and+Kubernetes;DevOps+%7C+Cloud+%7C+Observability;Always+Building+and+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Development+Enthusiast;Learning+DevOps+%26+Cloud;Docker+%7C+Kubernetes+%7C+Observability;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -12,89 +12,74 @@
 
 ## 💫 About Me
 
-🎓 Internship Trainee at **JSpiders**
-💻 Passionate about Backend Development & Scalable Systems
-⚙️ Exploring DevOps, Cloud, and Container Technologies
-📚 Continuously improving problem-solving & development skills
-🎯 Goal: Become a skilled Software Engineer
+* 🎓 Currently pursuing internship training at **JSpiders**
+* 💻 Passionate about **Backend Development** & scalable systems
+* ⚙️ Exploring **DevOps, Cloud & Observability**
+* 🚀 Interested in building efficient and secure applications
+* 🎯 Aspiring to become a skilled **Software Engineer**
 
 ---
 
-## 🚀 What I'm Learning
+# 🚀 Currently Exploring
 
-```yaml
-Backend:
-  - Java
-  - JDBC
-  - Collections Framework
-  - SQL
-
-DevOps:
-  - Git & GitHub
-  - Linux
-  - Docker
-  - Kubernetes
-  - CI/CD Concepts
-
-Cloud & Observability:
-  - AWS Basics
-  - Grafana
-  - Loki
-  - Tempo
-  - Prometheus
-  - LGTM Stack
-```
+🔹 Advanced Java (OOPs, JDBC, Collections)
+🔹 SQL Query Optimization
+🔹 Docker & Kubernetes
+🔹 CI/CD Pipeline Concepts
+🔹 AWS Cloud Fundamentals
+🔹 Grafana, Loki, Tempo & Prometheus
+🔹 LGTM Stack & Monitoring Concepts
 
 ---
 
-## 🛠 Tech Toolbox
+# 🛠 Tech Stack
 
-<p align="left">
+### 👨‍💻 Languages
 
-💻 Languages
-Java • SQL • Python
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>
 
-⚙️ DevOps & Tools
-Git • GitHub • Docker • Kubernetes • Linux
+### ⚙️ DevOps & Cloud
 
-📊 Monitoring & Observability
-Grafana • Loki • Tempo • Prometheus
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws" />
+</p>
 
-☁️ Cloud
-AWS Basics
+### 📊 Monitoring & Observability
 
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus" />
 </p>
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
-* Building strong Java fundamentals
-* Learning containerization & orchestration
-* Understanding CI/CD workflows
-* Exploring observability concepts
-* Working on real-world backend projects
-
----
-
-## 🌟 Career Interests
-
-✔ Backend Development
-✔ Java Full Stack Development
-✔ DevOps Engineering
-✔ Cloud Technologies
-✔ System Design
+✨ Building strong Java fundamentals
+✨ Learning cloud-native technologies
+✨ Understanding container orchestration
+✨ Exploring monitoring & observability tools
+✨ Working on real-world backend projects
 
 ---
 
-## 🤝 Let's Connect
+# 🌟 Career Interests
 
-📌 Open to:
+💼 Backend Development
+☕ Java Full Stack Development
+⚙️ DevOps Engineering
+☁️ Cloud Technologies
+📈 Scalable System Design
+
+---
+
+# 🤝 Open to Opportunities
 
 * Internships
-* Entry-Level Opportunities
-* Collaborative Projects
+* Entry-Level Software Roles
 * Open Source Contributions
+* Collaborative Tech Projects
 
 ---
 
