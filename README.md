@@ -1,25 +1,25 @@
 <div align="center">
 
-# 👋 Hi, I'm Rakshitha
+#  Hi, I'm Rakshitha
 
-### ☕ Java Developer Aspirant | 🚀 DevOps Learner | ☁️ Cloud Enthusiast
+###  DevOps Learner |  Cloud Enthusiast
 
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-* 🎓 Currently pursuing internship training at **JSpiders**
-* 💻 Passionate about **Backend Development** & scalable systems
-* ⚙️ Exploring **DevOps, Cloud & Observability**
-* 🚀 Interested in building efficient and secure applications
-* 🎯 Aspiring to become a skilled **Software Engineer**
+* Currently pursuing internship training at **JSpiders**
+* Passionate about **Backend Development** & scalable systems
+* Exploring **DevOps, Cloud & Observability**
+* Interested in building efficient and secure applications
+* Aspiring to become a skilled **Software Engineer**
 
 ---
 
-# 🚀 Currently Exploring
+# Currently Exploring
 
 🔹 Advanced Java (OOPs, JDBC, Collections)
 🔹 SQL Query Optimization
@@ -33,19 +33,19 @@
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,mysql" />
 </p>
 
-### ⚙️ DevOps & Cloud
+###  DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws" />
 </p>
 
-### 📊 Monitoring & Observability
+###  Monitoring & Observability
 
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus" />
@@ -53,7 +53,7 @@
 
 ---
 
-# 📌 Current Focus
+#  Current Focus
 
 ✨ Building strong Java fundamentals
 ✨ Learning cloud-native technologies
@@ -63,17 +63,17 @@
 
 ---
 
-# 🌟 Career Interests
+# Career Interests
 
-💼 Backend Development
-☕ Java Full Stack Development
-⚙️ DevOps Engineering
-☁️ Cloud Technologies
-📈 Scalable System Design
+Backend Development
+Java Full Stack Development
+DevOps Engineering
+Cloud Technologies
+Scalable System Design
 
 ---
 
-# 🤝 Open to Opportunities
+# Open to Opportunities
 
 * Internships
 * Entry-Level Software Roles
@@ -84,6 +84,6 @@
 
 <div align="center">
 
-### ⭐ Learning • Building • Growing
+### Learning • Building • Growing
 
 </div>
