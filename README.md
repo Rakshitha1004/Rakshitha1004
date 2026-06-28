@@ -1,89 +1,136 @@
-<div align="center">
+# <div align="center">
 
-#  Hi, I'm Rakshitha
+# 👋 Hi, I'm Rakshitha M R
 
-###  DevOps Learner |  Cloud Enthusiast
+###  Aspiring DevOps Engineer | Cloud Enthusiast | Automation Learner
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Enthusiast;CI%2FCD+Pipeline+Builder;Docker+%7C+Kubernetes+%7C+AWS;Monitoring+%26+Observability;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-## About Me
+#  About Me
 
-* Currently pursuing internship training at **JSpiders**
-* Passionate about **Backend Development** & scalable systems
-* Exploring **DevOps, Cloud & Observability**
-* Interested in building efficient and secure applications
-* Aspiring to become a skilled **Software Engineer**
+🔹 DevOps enthusiast passionate about automation, cloud technologies, and scalable infrastructure.
 
----
+🔹 Hands-on experience building CI/CD pipelines, containerizing applications, and deploying workloads on cloud platforms.
 
-# Currently Exploring
+🔹 Interested in Infrastructure as Code, Kubernetes, Monitoring, Observability, and Cloud-Native technologies.
 
-🔹 Advanced Java (OOPs, JDBC, Collections)
-🔹 SQL Query Optimization
-🔹 Docker & Kubernetes
-🔹 CI/CD Pipeline Concepts
-🔹 AWS Cloud Fundamentals
-🔹 Grafana, Loki, Tempo & Prometheus
-🔹 LGTM Stack & Monitoring Concepts
+🔹 Constantly learning modern DevOps practices to build reliable, secure, and highly available systems.
 
 ---
 
-# 🛠 Tech Stack
+# 🌱 Currently Exploring
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,mysql" />
-</p>
-
-###  DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws" />
-</p>
-
-###  Monitoring & Observability
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus" />
-</p>
+* CI/CD Pipeline Automation
+* Docker & Docker Compose
+* Kubernetes (K3s)
+* Jenkins
+* AWS Cloud Services
+* Linux Administration
+* Nginx & Tomcat
+* Prometheus & Grafana
+* Spring Boot Actuator & Micrometer
+* LGTM Stack (Loki, Grafana, Tempo)
+* Terraform (Learning)
 
 ---
 
-#  Current Focus
+# Tech Stack
 
-✨ Building strong Java fundamentals
-✨ Learning cloud-native technologies
-✨ Understanding container orchestration
-✨ Exploring monitoring & observability tools
-✨ Working on real-world backend projects
+## Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+## DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,jenkins,maven,bash" />
+</p>
+
+## Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,mysql,spring" />
+</p>
+
+## Monitoring & Observability
+
+* Prometheus
+* Grafana
+* cAdvisor
+* Spring Boot Actuator
+* Micrometer
+
+---
+
+# What I've Built
+
+✅ Automated CI/CD Pipelines using Jenkins
+
+✅ Dockerized Spring Boot Applications
+
+✅ Kubernetes (K3s) Deployments
+
+✅ AWS EC2 Deployments
+
+✅ Reverse Proxy Configuration using Nginx
+
+✅ Apache Tomcat Application Deployment
+
+✅ Monitoring with Prometheus & Grafana
+
+✅ Container Monitoring using cAdvisor
+
+✅ MySQL & AWS RDS Integration
+
+---
+
+# Current Focus
+
+✨ Cloud-Native Technologies
+
+✨ Kubernetes
+
+✨ DevOps Automation
+
+✨ Infrastructure as Code
+
+✨ Monitoring & Observability
+
+✨ Continuous Integration & Continuous Deployment
+
+✨ Site Reliability Engineering (SRE)
 
 ---
 
 # Career Interests
 
-Backend Development
-Java Full Stack Development
-DevOps Engineering
-Cloud Technologies
-Scalable System Design
+* DevOps Engineering
+* Cloud Engineering
+* Cloud-Native Technologies
 
 ---
 
-# Open to Opportunities
+# Open To
 
-* Internships
-* Entry-Level Software Roles
+* DevOps Engineer Roles
+* Cloud Engineer Roles
 * Open Source Contributions
-* Collaborative Tech Projects
+* Collaborative Projects
 
 ---
 
 <div align="center">
 
-### Learning • Building • Growing
+### 🚀 Automate • Deploy • Monitor • Scale
+
+**"Turning code into reliable production systems."**
+
+⭐ Thanks for visiting my profile!
 
 </div>
