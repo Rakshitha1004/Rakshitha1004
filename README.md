@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rakshitha M R
 
-###  Aspiring DevOps Engineer | Cloud Enthusiast | Automation Learner
+###  Associate DevOps Engineer | Cloud Enthusiast | Automation Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Enthusiast;CI%2FCD+Pipeline+Builder;Docker+%7C+Kubernetes+%7C+AWS;Monitoring+%26+Observability;Always+Learning+%F0%9F%9A%80" />
 
